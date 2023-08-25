@@ -1,11 +1,15 @@
-import { Button } from "@nextui-org/react";
+import { Button, Link } from "@nextui-org/react";
 
 import IndexWelcome from "../../assets/img/IndexWelcome.png";
-import { Download, Link } from "react-feather";
+import { Download } from "react-feather";
 import TypeAnimation from "../../components/TypeAnimation";
+import ContactModal from "../../components/ContactModal";
 export default function WelcomeSection() {
   return (
-    <section className="welcome flex flex-wrap sm:flex-nowrap justify-center text-center mb-32 mx-6" id="welcome">
+    <section
+      className="welcome flex flex-wrap sm:flex-nowrap justify-center text-center mb-32 mx-6"
+      id="welcome"
+    >
       {/* Div with welcome text and buttons */}
       <div className="w-max sm:w-1/2 flex flex-col gap-10 justify-center mx-5">
         {/* Welcome text */}
@@ -30,19 +34,19 @@ export default function WelcomeSection() {
         </div>
         {/* Buttons */}
         <div className="flex justify-center sm:justify-end">
-          <Button
-            className="bg-vadose-100 text-surface-100 text-lg m-2"
-            startContent={<Link />}
+          <Link
+            href="https://drive.google.com/file/d/1IMNH9Ip6kUua_CLkLehtBra6nt2ApxiD/view?usp=sharing"
+            isExternal
           >
-            Contact
-          </Button>
-          <Button
-            variant="bordered"
-            className="border-surface-300 text-surface-300 text-lg m-2"
-            startContent={<Download />}
-          >
-            CV Download
-          </Button>
+            <Button
+              size="lg"
+              className="bg-vadose-100 text-surface-100 font-medium text-sm mx-4"
+              startContent={<Download />}
+            >
+              CV Download
+            </Button>
+          </Link>
+          <ContactModal />
         </div>
       </div>
       {/* Div with welcome image */}
