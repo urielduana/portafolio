@@ -1,0 +1,116 @@
+{
+  "technologies": [
+    {
+      "id": 1,
+      "name": "JS",
+      "popup": "Programming language",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "image": "https://i.imgur.com/1QnftpZ.png"
+    },
+    {
+      "id": 2,
+      "name": "VueJS",
+      "popup": "Front-end JavaScript framework",
+      "link": "https://vuejs.org/",
+      "image": "https://i.imgur.com/g7r77Xn.png"
+    },
+    {
+      "id": 3,
+      "name": "PHP",
+      "popup": "Programming language",
+      "link": "https://www.php.net/",
+      "image": "https://i.imgur.com/WRkeDTS.png"
+    },
+    {
+      "id": 4,
+      "name": "Laravel",
+      "popup": "Back-end PHP framework",
+      "link": "https://laravel.com/",
+      "image": "https://i.imgur.com/W4bobFC.png"
+    },
+    {
+      "id": 5,
+      "name": "HTML",
+      "popup": "Markup language",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+      "image": "https://i.imgur.com/yzP8HoL.png"
+    },
+    {
+      "id": 6,
+      "name": "CSS",
+      "popup": "Styling language",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+      "image": "https://i.imgur.com/ASoOlFq.png"
+    },
+    {
+      "id": 7,
+      "name": "BootsTrap",
+      "popup": "Front-end CSS framework",
+      "link": "https://getbootstrap.com/",
+      "image": "https://i.imgur.com/lumjR9w.png"
+    },
+    {
+      "id": 8,
+      "name": "TailWind",
+      "popup": "Front-end CSS framework",
+      "link": "https://tailwindcss.com/",
+      "image": "https://i.imgur.com/pJo9680.png"
+    },
+    {
+      "id": 9,
+      "name": "Python",
+      "popup": "Programming language",
+      "link": "https://www.python.org/",
+      "image": "https://i.imgur.com/4wR5YnA.png"
+    },
+    {
+      "id": 10,
+      "name": "Java",
+      "popup": "Programming language",
+      "link": "https://www.java.com/",
+      "image": "https://i.imgur.com/Y5JIBKd.png"
+    },
+    {
+      "id": 11,
+      "name": "Dart",
+      "popup": "Programming language",
+      "link": "https://dart.dev/",
+      "image": "https://i.imgur.com/XxJbCLF.png"
+    },
+    {
+      "id": 12,
+      "name": "Flutter",
+      "popup": "Mobile app development framework",
+      "link": "https://flutter.dev/",
+      "image": "https://i.imgur.com/oI0uHZ1.png"
+    },
+    {
+      "id": 13,
+      "name": "MySQL",
+      "popup": "Relational database system",
+      "link": "https://www.mysql.com/",
+      "image": "https://i.imgur.com/0umhqxr.png"
+    },
+    {
+      "id": 14,
+      "name": "Git",
+      "popup": "Version control system",
+      "link": "https://git-scm.com/",
+      "image": "https://i.imgur.com/vqcnzsO.png"
+    },
+    {
+      "id": 15,
+      "name": "Github",
+      "popup": "Git repository hosting service",
+      "link": "https://github.com/",
+      "image": "https://i.imgur.com/cDo7hIH.png"
+    },
+    {
+      "id": 16,
+      "name": "Trello",
+      "popup": "Project management tool",
+      "link": "https://trello.com/",
+      "image": "https://i.imgur.com/gpXM2EJ.png"
+    }
+  ]
+}

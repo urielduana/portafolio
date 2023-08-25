@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Paid-It",
+      "description": "App Web that allows you to manage finances and payments on educational institutions. Also allows to parents to deposit money to their childrens.",
+      "technologies": [1, 0, 3, 2, 4, 5, 7, 12],
+      "logo": "",
+      "repository": "https://github.com/urielduana/PaidIt"
+    },
+    {
+      "id": 2,
+      "title": "SnapSnap",
+      "description": "Mobile App that allows you to take a picture and share it with your friends in a specific topic.",
+      "technologies": [11, 10, 3, 2],
+      "logo": "",
+      "repository": "https://github.com/urielduana/SnapSnap"
+    },
+    {
+      "id": 3,
+      "title": "SnapSnap API",
+      "description": "API that allows you to manage all the backend of the SnapSnap App.",
+      "technologies": [3, 2, 11, 10],
+      "logo": "",
+      "repository": "https://github.com/urielduana/SnapSnap_Api"
+    },
+    {
+      "id": 4,
+      "title": "WeirdoComics",
+      "description": "ERP Web App to manage a Comic Store. Made with Laravel.",
+      "technologies": [3, 2],
+      "logo": "",
+      "repository": "https://github.com/TwstyZ/WeirdoComics"
+    },
+    {
+      "id": 5,
+      "title": "Diary",
+      "description": "Simple Web App that allows you to write your thoughts and save them in a diary.",
+      "technologies": [3, 2],
+      "logo": "",
+      "repository": "https://github.com/urielduana/Diario"
+    },
+    {
+      "id": 6,
+      "title": "WikiCar",
+      "description": "Blog to share information about cars with car lovers. App made with raw PHP.",
+      "technologies": [2],
+      "logo": "",
+      "repository": "https://github.com/urielduana/wikicar"
+    },
+    {
+      "id": 7,
+      "title": "CalQ",
+      "description": "Java Calculator App to make simple operations, and geometric, convertions, equations, statistics, probabilities and more.",
+      "technologies": [9],
+      "logo": "",
+      "repository": "https://github.com/urielduana/CalQ"
+    },
+    {
+      "id": 8,
+      "title": "SVG-Generator",
+      "description": "Simple python script to generate SVG/PDF files from a spreadsheet or CSV file to a SVG template.",
+      "technologies": [8],
+      "logo": "",
+      "repository": "https://github.com/urielduana/SVG-Generator"
+    },
+    {
+      "id": 9,
+      "title": "Mc Cullough-Pitts Neuron",
+      "description": "Simple Mc Cullough-Pitts Neuron to simulate a logic gates. Evaluated with a truth table and adjusts the weights and bias.",
+      "technologies": [8],
+      "logo": "",
+      "repository": "https://github.com/urielduana/McCullochPitts"
+    },
+    {
+      "id": 10,
+      "title": "Simple Perceptron",
+      "description": "Simple perceptron to solve logic gates problems.",
+      "technologies": [8],
+      "logo": "",
+      "repository": "https://github.com/urielduana/PerceptronSimple"
+    }
+  ]
+}

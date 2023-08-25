@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160"
+   height="160"
+   viewBox="0 0 42.333333 42.333332"
+   version="1.1"
+   id="svg11870"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="VadoseIcon.svg"
+   inkscape:export-filename="VadoseIconBR.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11872"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="-19.5"
+     inkscape:cy="75"
+     inkscape:window-width="1360"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5" />
+  <defs
+     id="defs11867" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Icono_fondo"
+       style="display:inline;fill:#ff0000"
+       transform="translate(-2.7191186,-140.40711)" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Icono"
+       style="display:inline"
+       transform="translate(-2.7191186,-140.40711)">
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.305443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.5;paint-order:markers stroke fill"
+         id="rect6638"
+         width="42.33741"
+         height="42.333332"
+         x="2.7170804"
+         y="140.4071"
+         rx="4.4597774"
+         ry="4.6945267" />
+      <g
+         id="g294"
+         style="fill:#f2f2f2;fill-opacity:1">
+        <path
+           id="rect10933"
+           style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.205798;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.5;paint-order:markers stroke fill"
+           d="m 37.267945,150.51007 a 2.2849377,2.2849377 0 0 0 -3.126229,0.81749 l -11.89709,20.32231 a 2.2849377,2.2849377 0 0 0 0.817492,3.12622 2.2849377,2.2849377 0 0 0 3.126222,-0.81749 l 11.897099,-20.3223 a 2.2849377,2.2849377 0 0 0 -0.817494,-3.12623 z" />
+        <path
+           id="path11208"
+           style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.205798;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.5;paint-order:markers stroke fill"
+           d="m 11.602756,149.91371 a 2.2849377,2.2849377 0 0 0 -1.017903,0.31857 2.2849377,2.2849377 0 0 0 -0.7898999,3.13347 l 4.4149689,7.39072 -0.0027,0.002 2.759468,4.61953 a 2.2849377,2.2849377 0 0 0 3.133014,0.7899 2.2849377,2.2849377 0 0 0 0.7899,-3.13346 l -0.523145,-0.87597 0.0027,-0.002 -6.65084,-11.1343 a 2.2849377,2.2849377 0 0 0 -2.115563,-1.10848 z m 6.86848,17.17684 -0.353721,0.20817 0.009,0.0149 z" />
+      </g>
+    </g>
+  </g>
+</svg>
